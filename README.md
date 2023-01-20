@@ -1,7 +1,7 @@
 
 # Hatch Hut
 
-A Website made using Javascript, CSS
+A Website made using HTML and CSS (working on backend(React))
 
 ### Live Link 
 https://hatchhut.netlify.app/
